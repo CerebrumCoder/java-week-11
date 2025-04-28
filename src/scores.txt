@@ -1,3 +1,3 @@
-amir a aa 10
-budi b bb 12
-cecep c cc 15
+Neal a Guarddin 10
+Alvin b Satria 12
+Cecep c Salahudin 15
