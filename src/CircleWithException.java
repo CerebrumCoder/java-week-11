@@ -19,7 +19,7 @@ public class CircleWithException {
         return this.radius;
     }
 
-    public void setRadius(double newRadius) {
+    public void setRadius(double newRadius) throws IllegalArgumentException {
         if (newRadius >= 0)
             radius = newRadius;
         else
